@@ -1,0 +1,12 @@
+{
+    "name": "voice-cross",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "http-server -o -S -C ssl/server.crt -K ssl/server.key"
+    },
+    "description": "Voice Cross",
+    "dependencies": {
+        "requirejs": "^2.3.6",
+        "socket.io": "^2.2.0"
+    }
+}

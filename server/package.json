@@ -1,0 +1,9 @@
+{
+    "name": "voice-websocket-server",
+    "version": "0.0.1",
+    "description": "Voice Websocket Server",
+    "dependencies": {
+        "express": "^4.17.1",
+        "ws": "^7.1.1"
+    }
+}
